@@ -1,22 +1,66 @@
-# NebulaStack-Infotech
+# 💻 NebulaStack – Infotech
 
-Core infrastructure, tools, and algorithmic projects.  
-Calculators, educational sandboxes, and everything that powers the system from the inside.
+> **Software Engineering • Artificial Intelligence • Automation**
 
-## 📂 Phase I
+---
 
-- [Calculator v.1](https://github.com/NebulaStack-prog/Calculator-v1)
-- [Calculator v.2](https://github.com/NebulaStack-prog/Calculator-v2)
-- [Calculator v.3](https://github.com/NebulaStack-prog/Calculator-v3)
+## 📖 About
 
-## 📂 Phase II (in development)
+**NebulaStack – Infotech** is the primary software development repository of the NebulaStack ecosystem.
 
-- [Filer](https://github.com/NebulaStack-prog/Filer)
+It contains software projects, AI applications, automation tools, bots, desktop utilities and experimental technologies created throughout the NebulaStack journey.
 
-## 🔗 Ecosystem
+---
 
-- [NebulaStack-Hub](https://github.com/NebulaStack-prog/NebulaStack-Hub)
-- [Telegram](https://t.me/NebulaStack)
-- [YouTube](https://youtube.com/@NebulaStack-Co)
+## 🎯 Mission
 
-© NebulaStack
+Design practical software solutions, explore modern technologies, and continuously improve engineering skills through real-world projects.
+
+---
+
+# 🚀 Projects
+
+## Phase I
+
+| ID     | Project        | Status |
+| ------ | -------------- | :----: |
+| NS-001 | Calculator v.1 |    ✅   |
+| NS-003 | Calculator v.2 |    ✅   |
+| NS-008 | Calculator v.3 |    ✅   |
+
+## Phase II
+
+*Coming Soon...*
+
+---
+
+# 🔭 Upcoming Projects
+
+* 📁 Filer
+* 🤖 Voice Assistant
+* 🧠 Tetris AI
+* 🔢 Numbers AI
+
+---
+
+# 🛠 Technology Stack
+
+* Python
+* Java
+* C#
+* OpenClaw
+* Telegram Bot API
+* Git
+* GitHub
+
+---
+
+# 🌌 Philosophy
+
+Every software project represents another step in expanding NebulaStack.
+
+The goal is not only to develop applications but also to study technologies, document the development process, and transform knowledge into practical products.
+
+---
+
+> **Built through curiosity. Expanded through knowledge.**
