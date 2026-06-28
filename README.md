@@ -16,11 +16,11 @@ Design practical software solutions, explore modern technologies, and continuous
 
 ## Phase I
 
-| ID     | Project        | Status |
-| ------ | -------------- | :----: |
-| NS-001 | Calculator v.1 |    ✅   |
-| NS-003 | Calculator v.2 |    ✅   |
-| NS-008 | Calculator v.3 |    ✅   |
+| ID     | Project        |Links  | Status |
+| ------ | -------------- |-------| :----: |
+| NS-001 | Calculator v.1 | [More...](https://github.com/NebulaStack-prog/Calculator-v.1)      |    ✅   |
+| NS-003 | Calculator v.2 | [More...](https://github.com/NebulaStack-prog/Calculator-v.2)      |    ✅   |
+| NS-008 | Calculator v.3 | [More...](https://github.com/NebulaStack-prog/Calculator-v.3)      |   ✅   |
 
 ## Phase II
 
