@@ -31,6 +31,9 @@ Design practical software solutions, explore modern technologies, and continuous
 * 📁 Filer
 * 📢 Voice Assistant
 * 📟 Calculator v.4
+* 🖼️ Graphic Editor
+* 🖍️ Notes
+* 🌦️ Weather
 * 💻 NS Laptop
 * **Techno Zone (NS Launcher)**
 
