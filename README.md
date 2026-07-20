@@ -29,9 +29,9 @@ Design practical software solutions, explore modern technologies, and continuous
 # 🔭 Upcoming Projects
 
 * 📁 Filer
-* 🤖 Voice Assistant
-* 🧠 Tetris AI
-* 🔢 Numbers AI
+* 📢 Voice Assistant
+* 📟 Calculator v.4
+* 💻 NS Laptop
 
 # 🛠 Technology Stack
 
