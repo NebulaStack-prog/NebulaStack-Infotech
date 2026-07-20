@@ -32,6 +32,7 @@ Design practical software solutions, explore modern technologies, and continuous
 * 📢 Voice Assistant
 * 📟 Calculator v.4
 * 💻 NS Laptop
+* **Techno Zone (NS Launcher)**
 
 # 🛠 Technology Stack
 
