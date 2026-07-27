@@ -28,13 +28,12 @@ Design practical software solutions, explore modern technologies, and continuous
 | ------ | -------------- |-------| :----: |
 | NS-011 | Lazy Clock | [More...](https://github.com/NebulaStack-prog/Lazy-Clock)      |    ✅   |
 | NS-012 | Painter | [More...](https://github.com/NebulaStack-prog/Painter)      |    ✅   |
+| NS-016 | Calculator v.4 | [More...](https://github.com/NebulaStack-prog/Calculator-v.4)      |    ✅   |
 
 # 🔭 Upcoming Projects
 
 * 📁 Filer
 * 📢 Voice Assistant
-* 📟 Calculator v.4
-* 🖼️ Graphic Editor
 * 🖍️ Notes
 * 🌦️ Weather
 * 💻 NS Laptop
