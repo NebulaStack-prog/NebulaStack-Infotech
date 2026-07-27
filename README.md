@@ -22,6 +22,8 @@ Design practical software solutions, explore modern technologies, and continuous
 | NS-003 | Calculator v.2 | [More...](https://github.com/NebulaStack-prog/Calculator-v.2)      |    ✅   |
 | NS-008 | Calculator v.3 | [More...](https://github.com/NebulaStack-prog/Calculator-v.3)      |   ✅   |
 | NS-011 | Lazy Clock | [More...](https://github.com/NebulaStack-prog/Lazy-Clock)      |    ✅   |
+| NS-012 | Painter | [More...](https://github.com/NebulaStack-prog/Painter)      |    ✅   |
+
 ## Phase II
 
 *Coming Soon...*
