@@ -51,6 +51,7 @@ Design practical software solutions, explore modern technologies, and continuous
 * Telegram Bot API
 * Git
 * GitHub
+* HTML
 
 # 🌌 Philosophy
 
