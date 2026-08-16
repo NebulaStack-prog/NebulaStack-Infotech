@@ -32,7 +32,7 @@ Design practical software solutions, explore modern technologies, and continuous
 | NS-017 | Voice Assistant       | [More...](https://github.com/NebulaStack-prog/Voice-Assistant)      |    🛠   |
 | NS-018 | Filer| [More...](https://github.com/NebulaStack-prog/Filer)      |  🛠     |
 | NS-019 | Nesty Virtual| [More...](https://github.com/NebulaStack-prog/Nesty-Virtual)      |    🛠   |
-| NS-020 | NebulaStack Launcher| [More...](https://github.com/NebulaStack-prog/NS-Launcher)      |    🛠   |
+| **NS-020** | **NebulaStack Launcher**| [More...](https://github.com/NebulaStack-prog/NS-Launcher)      |    🛠   |
 
 
 # 🔭 Upcoming Projects
