@@ -12,9 +12,7 @@ It contains software projects, AI applications, automation tools, bots, desktop 
 
 Design practical software solutions, explore modern technologies, and continuously improve engineering skills through real-world projects.
 
-# 🚀 Projects
-
-## Phase I
+## 🚀 Projects of Phase I
 
 | ID     | Project        |Links  | Status |
 | ------ | -------------- |-------| :----: |
@@ -22,7 +20,7 @@ Design practical software solutions, explore modern technologies, and continuous
 | NS-003 | Calculator v.2 | [More...](https://github.com/NebulaStack-prog/Calculator-v.2)      |    ✅   |
 | NS-008 | Calculator v.3 | [More...](https://github.com/NebulaStack-prog/Calculator-v.3)      |   ✅   |
 
-## Phase II
+## 🚀 Projects of Phase II
 
 | ID     | Project        |Links  | Status |
 | ------ | -------------- |-------| :----: |
@@ -35,13 +33,13 @@ Design practical software solutions, explore modern technologies, and continuous
 | **NS-020** | **NebulaStack Launcher**| [More...](https://github.com/NebulaStack-prog/NS-Launcher)      |    🛠   |
 
 
-# 🔭 Upcoming Projects
+## 🔭 Upcoming Projects
 
 * 📢 Voice Assistant
 * 🤖 Nesty Virtual
 * **Techno Zone (NS Launcher)**
 
-# 🛠 Technology Stack
+## 🛠 Technology Stack
 
 * Python
 * Java
@@ -52,7 +50,7 @@ Design practical software solutions, explore modern technologies, and continuous
 * GitHub
 * HTML
 
-# 🌌 Philosophy
+## 🌌 Philosophy
 
 Every software project represents another step in expanding NebulaStack.
 
