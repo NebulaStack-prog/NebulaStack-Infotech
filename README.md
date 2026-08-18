@@ -20,7 +20,7 @@ Design practical software solutions, explore modern technologies, and continuous
 | NS-003 | Calculator v.2 | [More...](https://github.com/NebulaStack-prog/Calculator-v.2)      |    ✅   |
 | NS-008 | Calculator v.3 | [More...](https://github.com/NebulaStack-prog/Calculator-v.3)      |   ✅   |
 
-## 🚀 Projects of Phase II
+## 🚀🚀 Projects of Phase II
 
 | ID     | Project        |Links  | Status |
 | ------ | -------------- |-------| :----: |
@@ -32,6 +32,8 @@ Design practical software solutions, explore modern technologies, and continuous
 | NS-019 | Nesty Virtual| [More...](https://github.com/NebulaStack-prog/Nesty-Virtual)      |    🛠   |
 | **NS-020** | **NebulaStack Launcher**| [More...](https://github.com/NebulaStack-prog/NS-Launcher)      |    🛠   |
 
+## 🚀🚀🚀 Projects of Phase III
+*Very soon...*
 
 ## 🔭 Upcoming Projects
 
