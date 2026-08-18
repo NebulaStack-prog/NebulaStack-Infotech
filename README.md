@@ -32,9 +32,6 @@ Design practical software solutions, explore modern technologies, and continuous
 | NS-019 | Nesty Virtual| [More...](https://github.com/NebulaStack-prog/Nesty-Virtual)      |    🛠   |
 | **NS-020** | **NebulaStack Launcher**| [More...](https://github.com/NebulaStack-prog/NS-Launcher)      |    🛠   |
 
-## 🚀🚀🚀 Projects of Phase III
-*Very soon...*
-
 ## 🔭 Upcoming Projects
 
 * 📢 Voice Assistant
