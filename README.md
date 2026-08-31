@@ -29,14 +29,7 @@ Design practical software solutions, explore modern technologies, and continuous
 | NS-015 | Calculator v.4 | [More...](https://github.com/NebulaStack-prog/Calculator-v.4)      |    ✅   |
 | NS-017 | Voice Assistant       | [More...](https://github.com/NebulaStack-prog/Voice-Assistant)      |    ✅️   |
 | NS-018 | Filer Quest| [More...](https://github.com/NebulaStack-prog/Filer-Quest)      |  ✅️     |
-| NS-019 | Nesty Virtual| [More...](https://github.com/NebulaStack-prog/Nesty-Virtual)      |    🛠   |
-| **NS-020** | **NebulaStack Launcher**| [More...](https://github.com/NebulaStack-prog/NS-Launcher)      |    🛠   |
-
-## 🔭 Upcoming Projects
-
-* 📢 Voice Assistant
-* 🤖 Nesty Virtual
-* **Techno Zone (NS Launcher)**
+| **NS-019** | **NebulaStack Launcher**| [More...](https://github.com/NebulaStack-prog/NS-Launcher)      |    🛠   |
 
 ## 🛠 Technology Stack
 
