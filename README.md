@@ -34,6 +34,7 @@ Design practical software solutions, explore modern technologies, and continuous
 | ID     | Project        |Links  | Status |
 | ------ | -------------- |-------| :----: |
 | **NS-019** | **NebulaStack Launcher**| [More...](https://github.com/NebulaStack-prog/NS-Launcher)      |    🛠   |
+| **NS-020** | **Adenex**| [More...](https://github.com/NebulaStack-prog/NS-Launcher)      |    🛠   |
 
 ## 🛠 Technology Stack
 
