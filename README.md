@@ -4,9 +4,9 @@
 
 ## 📖 About
 
-**NebulaStack – Infotech** is the primary software development repository of the NebulaStack ecosystem.
+**NebulaStack – Infotech** is the primary software development repository of the NESTIMS ecosystem.
 
-It contains software projects, AI applications, automation tools, bots, desktop utilities and experimental technologies created throughout the NebulaStack journey.
+It contains software projects, AI applications, automation tools, bots, desktop utilities and experimental technologies created throughout the NESTIMS journey.
 
 ## 🎯 Mission
 
