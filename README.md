@@ -48,7 +48,7 @@ Design practical software solutions, explore modern technologies, and continuous
 
 ## 🌌 Philosophy
 
-Every software project represents another step in expanding NebulaStack.
+Every software project represents another step in expanding NESTIMS.
 
 The goal is not only to develop applications but also to study technologies, document the development process, and transform knowledge into practical products.
 
