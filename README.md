@@ -29,11 +29,7 @@ Design practical software solutions, explore modern technologies, and continuous
 | NS-015 | Calculator v.4 | [More...](https://github.com/NebulaStack-prog/Calculator-v.4)      |    ✅   |
 | NS-017 | Voice Assistant       | [More...](https://github.com/NebulaStack-prog/Voice-Assistant)      |    ✅️   |
 | NS-018 | Filer Quest| [More...](https://github.com/NebulaStack-prog/Filer-Quest)      |  ✅️     |
-
-## 🚀🚀🚀 Projects of Phase III
-| ID     | Project        |Links  | Status |
-| ------ | -------------- |-------| :----: |
-| **NS-019** | **NebulaStack Launcher**| [More...](https://github.com/NebulaStack-prog/NS-Launcher)      |    🛠   |
+| **NS-019** | **NebulaStack Launcher**| [More...](https://github.com/NebulaStack-prog/NebulaStack-Launcher)      |    ✅️   |
 
 ## 🛠 Technology Stack
 
